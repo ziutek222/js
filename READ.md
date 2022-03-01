@@ -1,0 +1,1 @@
+Site with simple java script on click function.
